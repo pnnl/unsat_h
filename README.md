@@ -78,6 +78,8 @@ FAX: 509-372-6089
 E-mail: mike.fayer@pnl.gov
 Web URL: http://hydrology.pnl.gov
 
+Edit, August 28, 2020: Please refer any questions or suggestions to Catherine Yonkofski <catherine.yonkofski@pnnl.gov> or Alex Hanna <alexander.hanna@pnnl.gov>
+
 Fayer MJ, 2000. "UNSAT-H Version 3.0: Unsaturated soil water and heat flow model, Theory, User Manual, and Examples." PNNL-13249, Pacific Northwest National Laboratory, Richland, Washington.
 
 Fayer MJ and TL Jones, 1990. "UNSAT-H Version 2.0: Unsaturated Soil Water and Heat Flow Model." PNL-6779, Pacific Northwest Laboratory, Richland, Washington.
